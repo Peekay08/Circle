@@ -5,4 +5,4 @@ function area(radius) {
   return area
 }
 
-console.log("The area of the circle is: " + area(28) + "meters squared")
+console.log("The area of the circle is: " + area(28) + "m" + <sup>2</sup>)
